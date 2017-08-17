@@ -1,8 +1,8 @@
 {
-    "name": "tjphippen/docusign",
+    "name": "dfoxx/laravel-docusign",
     "description": "DocuSign Rest API Wrapper for Laravel 5",
     "keywords": ["laravel", "docusign", "laravel 5", "sign", "documents", "envelope"],
-    "homepage": "https://github.com/tjphippen/docusign",
+    "homepage": "https://github.com/dfoxx/laravel-docusign",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php" : ">=5.4.0",
-        "illuminate/support": "~5.1",
+        "illuminate/support": "~5.2",
         "guzzlehttp/guzzle": "~6.0",
         "laravel/framework": "5.*"
     },
@@ -33,7 +33,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "0.3-dev"
+            "dev-master": "0.4-dev"
         }
     },
     "minimum-stability": "dev"
